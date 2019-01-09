@@ -48,23 +48,21 @@ title: home
 </style>
 
 <h2 class="class-header">
-    Biovisualization
-    <span class="small">cs4802, cs573, cs582, bcb4802, bcb502</span>
+    Data Visualization
+    <span class="small">cs480x, cs4802, bcb4802</span>
 </h2>
 
-Biovisualization (cs4802, cs573, cs582, bcb4802, bcb502)
+Data Visualization (cs480x, cs4802, bcb4802)
 
-Term C/D -- 2018
+Term C -- 2019
 
 Location<br>
-Goddard Hall 227<br>
-M/W 4:00-5:50pm
+Fuller 320<br>
+M/Th 1:00-2:50pm
 
 ### Announcements
 
 
-- mon-03-19: Three components to the grad final: 1) [prospectus](https://github.com/cs582-18s/prospectus), 2) [annotated bib](https://github.com/cs582-18s/annotated-bibliography), 3) [the final paper](https://github.com/cs582-18s/gradfinal)
-- mon-03-19: Grad reading feedback form -> https://goo.gl/forms/LDyFJFHhn4lpCitL2
-- wed-01-10: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack){:target="_blank"}.
+- wed-01-09: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack){:target="_blank"}.
 
-- wed-01-10: New? [Check out init](/init/) to get started.
+- wed-01-09: New? [Check out init](/init/) to get started.
