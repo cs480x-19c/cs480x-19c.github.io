@@ -53,7 +53,7 @@ Design is a Search Problem
 Dear Data (the background and entries themselves)   
 
 14-Jan Mon   
-Topic: Martin Luther King Jr. Day (No Classes)   
+Topic: Task Abstraction   
 Assigned: Assignment 2 - Data Visualization, 10 ways   
 
 15-Jan Tue   
@@ -72,7 +72,7 @@ Suggested Reading:
 (Blog) The State of Information Visualization, 2017   
 
 21-Jan Mon   
-Topic: Task Abstraction   
+Topic: Martin Luther King Jr. Day (No Classes)   
 Assigned: Assignment 3 - Replicating a Classic Experiment   
 
 22-Jan Tue   
