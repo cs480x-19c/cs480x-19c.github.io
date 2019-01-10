@@ -73,10 +73,6 @@ This term we will be using Slack for class discussion. Slack is highly catered t
 
 Rather than emailing questions to me, I encourage you to post your questions on Slack in public channels.
 
-Sign up for our Slack at: [https://cs582-18s.slack.com/signup](https://join.slack.com/t/cs582-18s/shared_invite/enQtMjkzMjU3MzEyNzY5LTA0ZWE2YmRiY2M2NTk0MGE2ZmE3YmI2ZDNkNWM3NmUyNTVjNmQwZWM0ZmE4NmU4YTg5Y2RiNWUzODQyNjYyODQ){:target="_blank"}
-
-**Your Slack username must be first-name last-initial or first-name last-name. Like "laneh".** To help everyone get to know each other, I encourage you to fill out the profile and upload a picture of yourself.
-
 Here is a short guide to asking questions on Slack:
 
 1. Ask in public channels! Oftentimes students will have answers to technical questions, and I can answer things publicly for others to see.
@@ -90,9 +86,9 @@ Grading
 
 Your course grade comes from three parts:
 
-- Assignments (40%)
+- Assignments (35%)
 - Labs (10%)
-- Quizzes (10%)
+- Quizzes (15%)
 - Reflections (10%)
 - Final Project (30%)
 
