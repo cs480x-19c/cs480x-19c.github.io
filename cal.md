@@ -132,7 +132,7 @@ No class! Reading day
 25-Feb Mon   
 Topic: TBA
 
-25-Feb Tue   
+26-Feb Tue   
 Due: Assignment 4 -- 11:59pm   
 
 28-Feb Thu   
