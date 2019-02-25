@@ -130,7 +130,7 @@ No class! Reading day
 ## Week 7 (Feb 25 - Mar 1)   
 
 25-Feb Mon   
-Topic: TBA
+Topic: A4 / Project Workday
 
 26-Feb Tue   
 Due: Assignment 4 -- 11:59pm   
